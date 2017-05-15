@@ -1,3 +1,3 @@
 # Coding
 
-抽奖算法
+lottery:抽奖算法
